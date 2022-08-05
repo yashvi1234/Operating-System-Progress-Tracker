@@ -1,0 +1,5 @@
+- [ ] __Need of Operating System__
+- [ ] __Functions of Operating System__
+- [ ] __What is Operating System__
+   - - [ ] __Definition of OS__
+   - - [ ] __Key terms to Remember__
