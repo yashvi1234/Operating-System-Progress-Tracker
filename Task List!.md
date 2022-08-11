@@ -4,7 +4,7 @@
    - - [x] __Definition of OS__
    - - [x] __Key terms to Remember__
 
-- [ ] __Goals of Operating System__
+- [x] __Goals of Operating System__
 - [ ] __Types of Operating System__
    - - [ ] __Single Process OS__
    - - [ ] __Branch Processing OS__
