@@ -6,10 +6,10 @@
 
 - [x] __Goals of Operating System__
 - [ ] __Types of Operating System__
-   - - [ ] __Single Process OS__
-   - - [ ] __Branch Processing OS__
-   - - [ ] __Multi Programming OS__
-   - - [ ] __Multi Tasking OS__
-   - - [ ] __Multi Processing OS__
+   - - [x] __Single Process OS__
+   - - [x] __Branch Processing OS__
+   - - [x] __Multi Programming OS__
+   - - [x] __Multi Tasking OS__
+   - - [x] __Multi Processing OS__
    - - [ ] __Distributed OS__
    - - [ ] __Real Time OS__
